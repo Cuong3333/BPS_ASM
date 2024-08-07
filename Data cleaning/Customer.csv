@@ -1,0 +1,31 @@
+Customer ID,Customer Name,Address,City,Country,Purchase Frequency
+C001,John Doe,132,New York,USA,5
+C002,Jane Smith,456 Elm St,Los Angeles,USA,3
+C003,David Brown,789 Oak St,Boston,USA,7
+C004,Emily White,321 Pine St,San Francisco,USA,4
+C005,Michael Johnson,654 Maple St,Boston,USA,6
+C006,Sarah Davis,987 Cedar St,Miami,USA,2
+C007,Robert Wilson,246 Elmwood Ave,Dallas,USA,8
+C008,Linda Miller,135 Broad St,Seattle,USA,3
+C009,James Taylor,642 Pinecrest Dr,Atlanta,USA,5
+C010,Susan Martinez,879 Beach Rd,Denver,USA,4
+C011,William Anderson,345 Sunset Blvd,Houston,USA,6
+C012,Ruth Garcia,567 Ridge Rd,Phoenix,USA,7
+C013,Thomas Lopez,890 Valley View,Philadelphia,USA,3
+C014,Nancy Scott,123 Park Ave,Detroit,USA,5
+C015,Daniel Hill,456 Hillside Ave,Minneapolis,USA,2
+C016,Mary King,789 River Rd,San Diego,USA,4
+C017,Steven Wright,234 Forest St,Tampa,USA,6
+C018,Patricia Green,567 Lakeview Dr,Portland,USA,8
+C019,Charles Baker,890 Green Ave,Boston,USA,3
+C020,Amanda Adams,123 Skyline Dr,Sacramento,USA,5
+C021,George Campbell,456 Ocean Blvd,Charlotte,USA,7
+C022,Carol Rodriguez,789 Parkside Ln,Indianapolis,USA,4
+C023,Mark Martinez,234 Hillcrest Rd,San Antonio,USA,6
+C024,Laura Young,567 Maplewood Ave,Orlando,USA,2
+C025,Kevin Lewis,890 Cedarwood Dr,Washington,USA,4
+C026,Sandra Hernandez,123 Elmwood Ct,Baltimore,USA,5
+C027,Christopher White,456 Pinehurst Dr,Las Vegas,USA,7
+C028,Angela Lee,789 Sunrise Ave,Milwaukee,USA,3
+C029,Ronald Hall,234 Sunset Dr,Kansas City,USA,6
+C030,Deborah Harris,567 Highland Ave,Raleigh,USA,4

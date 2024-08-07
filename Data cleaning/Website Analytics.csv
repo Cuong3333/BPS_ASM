@@ -1,0 +1,31 @@
+Access Date,Number of Visits,Average Time on Page,Bounce Rate,Popular Paths
+2024-07-01,100,2:30,30%,Home -> Products -> Checkout
+2024-07-02,120,3:00,25%,Home -> About Us -> Contact Us
+2024-07-03,80,2:00,35%,Home -> Products -> Special Offers
+2024-07-04,150,2:45,28%,Home -> Blog -> Products
+2024-07-05,90,2:15,32%,Home -> Products -> Blog
+2024-07-06,110,2:20,31%,Home -> Products -> Checkout
+2024-07-07,95,2:50,27%,Home -> About Us -> Contact Us
+2024-07-08,130,2:40,29%,Home -> Products -> Special Offers
+2024-07-09,85,2:10,33%,Home -> Blog -> Products
+2024-07-10,105,2:25,30%,Home -> Products -> Blog
+2024-07-11,125,2:55,26%,Home -> Products -> Checkout
+2024-07-12,140,2:35,28%,Home -> About Us -> Contact Us
+2024-07-13,75,2:05,34%,Home -> Products -> Special Offers
+2024-07-14,115,2:30,29%,Home -> Blog -> Products
+2024-07-15,95,2:20,31%,Home -> Products -> Blog
+2024-07-16,135,2:45,27%,Home -> Products -> Checkout
+2024-07-17,80,2:15,33%,Home -> About Us -> Contact Us
+2024-07-18,110,2:40,28%,Home -> Products -> Special Offers
+2024-07-19,100,2:10,32%,Home -> Blog -> Products
+2024-07-20,120,2:25,30%,Home -> Products -> Blog
+2024-07-21,130,2:55,26%,Home -> Products -> Checkout
+2024-07-22,150,2:35,28%,Home -> About Us -> Contact Us
+2024-07-23,85,2:05,34%,Home -> Products -> Special Offers
+2024-07-24,125,2:30,29%,Home -> Blog -> Products
+2024-07-25,105,2:20,31%,Home -> Products -> Blog
+2024-07-26,140,2:45,27%,Home -> Products -> Checkout
+2024-07-27,95,2:15,33%,Home -> About Us -> Contact Us
+2024-07-28,115,2:40,28%,Home -> Products -> Special Offers
+2024-07-29,90,2:10,32%,Home -> Blog -> Products
+2024-07-30,110,2:25,30%,Home -> Products -> Blog
